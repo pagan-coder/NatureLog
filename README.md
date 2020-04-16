@@ -4,4 +4,4 @@ Skeleton for obtainment data for scientific projects based on GPS coordinates us
 
 ## Usage
 
-Run in Android studio.
+Run in Android Studio.
